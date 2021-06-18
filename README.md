@@ -1,6 +1,6 @@
 # systemDesign_ExposureTracingApp
 * As part of MIT's 6.033 Computer System Engineering, we (Nhat Nguyen, Veronica Muriga, and Shashvat Srivastava) designed a `phone-based exposure (contacting) tracing system` called Enhanced Exposure Exterminator (EEE)
-  * `that prioritizes accuracy, timeliness, privacy and low phone impact to achieve the goal of swiftly identifying and responding to potential outbreaks on campus.`
+  * `that prioritizes accuracy, timeliness, privacy and low phone impact; that swiftly identifies and responses to potential outbreaks on a university campus.`
 * **Background**: every smartphone can send and receive BLE (Bluetooth Low Energy) signals that can serve as the cornerstone of modern contact tracing. An app-based exposure tracing system needs to identify infections and improve isolation compliance, while protecting user privacy. Many of the existing systems are not widely used, due to lack of trustworthiness and utility. Therefore, our system was designed with accuracy, timeliness, privacy and low computational impact being prime priorities.
 
 
