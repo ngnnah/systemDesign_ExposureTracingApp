@@ -11,3 +11,5 @@
 
 * An overview diagram of the system that I made:
 <img src='https://user-images.githubusercontent.com/58123635/122488584-c36d2780-cfab-11eb-829c-011af253ade5.png' height='450px' />
+
+### In this repo, you can find the System Specification and our team's A-graded paper.
